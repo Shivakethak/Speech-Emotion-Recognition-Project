@@ -1,4 +1,4 @@
-# SpeechProcessingProject
+# Speech Emotion Recognition Project
 This is our project on Speech Emotion Recognition
 A Deep Learning (LSTM) model with keras.
 This study aims to investigate and implement an Artificial Intelligence (AI) algorithm that will analyze an audio file in real-time, identify and present the expressed emotion within it.
